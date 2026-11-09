@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Wissem Amiri — Cybersecurity and Software Development</title>
+  <desc id="desc">A dark navy banner with a cyan security motif and a subtle grid.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1d2b"/>
+      <stop offset="1" stop-color="#092522"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#6ee7b7"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8fb3c9" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="135" rx="260" ry="220" fill="url(#glow)"/>
+  <path d="M0 238C220 210 390 283 625 245s380-32 575-68" fill="none" stroke="#67e8f9" stroke-opacity=".16" stroke-width="2"/>
+  <g transform="translate(945 70)" fill="none" stroke="url(#accent)" stroke-width="3">
+    <path d="M76 0 142 25v53c0 46-26 80-66 101C36 158 10 124 10 78V25L76 0Z" opacity=".82"/>
+    <path d="M52 78V64a24 24 0 0 1 48 0v14M45 78h62v43H45z" opacity=".9"/>
+    <circle cx="76" cy="97" r="5" fill="#67e8f9" stroke="none"/>
+    <path d="M76 102v9"/>
+    <path d="M0 48h22M130 48h22M0 115h22M130 115h22" stroke-opacity=".42"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="82" y="80" fill="#9fb8c7" font-size="15" letter-spacing="4">WISSEM AMIRI  /  CYBERSECURITY</text>
+    <text x="78" y="153" fill="#f0f7fa" font-size="54" font-weight="700" letter-spacing="-1">Build with care.</text>
+    <text x="82" y="196" fill="#9fb8c7" font-size="21">Secure thinking. Practical development. Always learning.</text>
+    <rect x="82" y="226" width="178" height="28" rx="14" fill="#67e8f9" fill-opacity=".1" stroke="#67e8f9" stroke-opacity=".42"/>
+    <circle cx="100" cy="240" r="4" fill="#6ee7b7"/>
+    <text x="114" y="245" fill="#bdeef0" font-size="12" letter-spacing="1.4">ESPRIT · TUNISIA</text>
+  </g>
+</svg>
