@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-motion.gif" alt="Subtle animated cybersecurity banner for Wissem Amiri" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Subtle animated cybersecurity banner for Wissem Amiri" width="100%" />
 </p>
 
 <h1 align="center">Wissem Amiri</h1>
